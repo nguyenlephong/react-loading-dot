@@ -1,6 +1,6 @@
 {
   "name": "react-loading-dot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple three dots wave loading animation component",
   "author": "yang052513",
   "license": "MIT",
@@ -21,5 +21,7 @@
     "styled-components": "^5.1.1",
     "typescript": "^3.9.5"
   },
-  "dependencies": {}
+  "dependencies": {
+    "styled-components": "^5.1.1"
+  }
 }
