@@ -1,0 +1,22 @@
+{
+  "name": "react-loading-dot",
+  "version": "1.0.0",
+  "description": "A simple three dots wave loading animation component",
+  "author": "yang052513",
+  "license": "MIT",
+  "repository": "yang052513/react-loading-dot",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "start": "ts-node ./src/index.tsx",
+    "build": "tsc -p .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@types/node": "^14.0.13",
+    "@types/react": "^16.9.38",
+    "react": "^16.13.1",
+    "typescript": "^3.9.5"
+  }
+}
