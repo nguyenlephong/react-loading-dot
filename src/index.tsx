@@ -25,9 +25,10 @@ export const Loading: React.FC = () => {
     background: rgb(202, 57, 57);
     border-radius: 50%;
     animation: 0.8s ${bounceLoading} infinite alternate;
-    &::nth-child(2) {
+    &:nth-child(2) {
       animation-delay: 0.3s;
     }
+
     &:nth-child(3) {
       animation-delay: 0.6s;
     }
