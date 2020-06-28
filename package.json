@@ -1,7 +1,7 @@
 {
   "name": "react-loading-dot",
-  "version": "1.0.3",
-  "description": "A simple three dots wave loading animation component",
+  "version": "1.0.4",
+  "description": "A simple react loading animation component",
   "author": "yang052513",
   "license": "MIT",
   "repository": "yang052513/react-loading-dot",
