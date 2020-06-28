@@ -4,7 +4,7 @@
 
 [![NPM](https://img.shields.io/npm/v/react-loading-dot.svg)](https://www.npmjs.com/package/react-loading-dot) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-![default figure](./asset/demo.gif)
+<img src="https://firebasestorage.googleapis.com/v0/b/yangliweb.appspot.com/o/demo.gif?alt=media&token=fe53135e-527c-4974-860b-ed6c2c8ad786" />
 
 ## Install
 
